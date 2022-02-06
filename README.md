@@ -1,6 +1,10 @@
 # Entradas e Saídas com java.io
 Conhecendo os fundamentos. 
 
+![Captura de ecrã de 2022-02-06 19-26-18](https://user-images.githubusercontent.com/78432629/152704102-61e66588-fa05-4663-be5b-01def3aae6ff.png)
+
+![Captura de ecrã de 2022-02-06 19-26-30](https://user-images.githubusercontent.com/78432629/152704103-3d08b7e3-efef-452c-ab5a-78941b9bad6f.png)
+
 ## Conceitos
 * Abertura e Leitura de arquivos
 * InputStream e Reader
